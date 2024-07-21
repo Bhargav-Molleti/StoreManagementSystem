@@ -20,6 +20,8 @@ MySql
 **Server**
 XAMPP
 
+## Note: All the HTML and JavaScript codes are included in PHP extension file, of there respective pages.
+
 ## Some ScreenShots for this Project:
 **Index Page:**
 ![image](https://github.com/user-attachments/assets/cce77f8d-35af-4011-a9da-cae9764e334d)
